@@ -1,0 +1,34 @@
+//
+// Autores: Filipe Pires e João Alegria
+// Data: Dezembro de 2017
+//
+
+Tempos de execução dos algoritmos de ordenação:
+
+         bubble_sort ->   717.913692s
+         shaker_sort ->   490.624038s
+      insertion_sort ->   122.795384s
+          shell_sort ->     1.578684s
+          quick_sort ->     1.270122s
+          merge_sort ->     1.435218s
+           heap_sort ->     1.652602s
+           rank_sort ->   341.301777s
+      selection_sort ->  1696.776364s
+
+Contagem de comparações feitas pelos algoritmos de ordenação:
+
+         bubble_sort -> 203992486693
+         shaker_sort -> 136085538912
+      insertion_sort -> 102079446092
+          shell_sort ->    419898387
+          quick_sort ->    231850740
+          merge_sort ->    260532948
+           heap_sort ->    384002962
+           rank_sort -> 204060215186
+      selection_sort -> 455947821779
+
+Contagem de trocas de elementos feitas por alguns algoritmos de ordenação:
+
+         bubble_sort -> 102064132618
+          quick_sort ->     54518642
+      selection_sort ->     15313489
