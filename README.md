@@ -29,4 +29,4 @@ The results suggest that, in most cases, Quick Sort presents the best results.
 
 The authors of this repository are Filipe Pires and João Alegria, and the project was developed for the Algorithms and Data Structures Course of the licenciate's degree in Informatics Engineering of the University of Aveiro.
 
-For further information, please read our [report](https://github.com/FilipePires98/SubsetSum/blob/master/study/Relat%C3%B3rio.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
+For further information, please read our [report](https://github.com/FilipePires98/SortingStrategies/blob/master/docs/Relat%C3%B3rio.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
