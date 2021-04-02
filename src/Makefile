@@ -1,2 +1,2 @@
-proj2:	proj2.c
-	cc -Wall -O2 --std=c99 proj2.c -o proj2 -lm
+sortingStrategies:	sortingStrategies.c
+	cc -Wall -O2 --std=c99 sortingStrategies.c -o sortingStrategies -lm
